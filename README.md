@@ -28,6 +28,7 @@ This dashboard serves as a crucial tool for the cookies company’s management t
 **SQL Code:** [Employee details queries](https://github.com/Bonifacenwa/bnwanganga.github.io/blob/main/Employee%20Details%20and%20Salary.sql)
 
 **SQL Skills Used:** 
+
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
 
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
