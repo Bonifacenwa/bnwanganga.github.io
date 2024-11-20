@@ -21,3 +21,14 @@ This dashboard serves as a crucial tool for the cookies company’s management t
 
 **Dashboard Overview:** 
 ![superstoredashboard](superstoredashboard.png)
+
+# Project 2
+**Title:** Employee details and salary interogation
+
+**SQL Code:** [Employee details queries]
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used: SQL server**
